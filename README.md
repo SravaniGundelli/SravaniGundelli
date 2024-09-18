@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SravaniGundelli
 - 👀 I’m interested in ...software engineer
-- 🌱 I’m currently learning ...java full stack
+- 🌱 I’m currently doing internship ...java Bcakend Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.linkedin.com/in/sravani-gundelli-a1674
+- 📫 How to reach me ...www.linkedin.com/in/sravani-gundelli
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
